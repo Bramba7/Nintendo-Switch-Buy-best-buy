@@ -25,8 +25,8 @@ https://sites.google.com/a/chromium.org/chromedriver/downloads
 ### Install python modules
 
 ```
-$ pip install selenium
-$ pip install PyYAML
+$ pip3 install selenium
+$ pip3 install PyYAML
 ```
 
 
